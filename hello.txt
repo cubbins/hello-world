@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello-world
+=======
+first line.
+>>>>>>> 39c010635188b2d58537c27c7fd9d22752f8a601
